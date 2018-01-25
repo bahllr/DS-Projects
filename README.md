@@ -20,7 +20,7 @@
 
 Technical interviews are a core component of being a data scientist. Moreover, they're a fun way to practice your new Python skills.
 
-Below we've included three coding challenges. You should complete each of these in Python, and test your solutions to verify they work. You are encouraged to comment your code to so you can explain what is occuring at each step.
+Below we've included four coding challenges. You should complete each of these in Python, and test your solutions to verify they work. You are encouraged to comment your code to so you can explain what is occuring at each step.
 
 Many of these are common practice problems, which means some solutions can be found online. Students should see these questions as an opportunity to challenge themselves; looking up answers limits the potential growth that comes from practice and repetition of these skills.
 
@@ -39,10 +39,7 @@ The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17. Find the sum of all the pr
 ### Challenge 3: Multiples of 3 and 5
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.
 
-### Challenge 4: Fizz Buzz
-Write a program that prints all the numbers from 1 to 100. For multiples of 3, instead of the number, print "Fizz", for multiples of 5 print "Buzz". For numbers which are multiples of both 3 and 5, print "FizzBuzz". Bonus: If that's too easy, create three unique solutions. Sometimes you'll encounter unexpected constraints, so make sure you're able to think creatively!
-
-### Challenge 5: String Compressor
+### Challenge 4: String Compressor
 Implement a method to perform basic string compression using the counts of repeated characters. For example, the string 'aabcccccaaa' would become a2b1c5a3. If the “compressed” string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a-z). Specify whether your solution is case sensitive or insensitive, and what you would need to change to make it the other.
 
 ---

@@ -8,10 +8,10 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Starter Code | Prompts and questions | [Here](./Project-1-CC.ipynb) |
-| Solution Code | Sample solutions for project 1 | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-1/project-1_solutions.ipynb) |
+| Starter Code | Required questions and Bonus prompts | [Here](./Project-1-CC.ipynb) |
+| Solution Code | Sample solutions for all required sections | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-1/project-1_solutions.ipynb) |
 
-> Note: Instructors should withhold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
+> Note: Instructors should withhold providing project solutions until students have submitted their drafts. 
 
 
 ---

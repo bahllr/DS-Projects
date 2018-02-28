@@ -24,14 +24,16 @@ Some of these problems are well known, so it may be possible to find complete so
 
 ## Project Requirements
 
-Create working solutions for all of the questions above.
+In a Jupyter Notebook, create working solutions for all of the **required** questions. Your notebook should include:
 
-Your notebook should include:
+1. Text for each question, copy and pasted from the starter code provided.
+2. A working solution to each problem.
+   - Do not include test, practice, or broken code (*unless you were unable to create a working solution*).
+3. Comments for all of your code.
+   - In your comments, describe any assumptions you made in order to solve these problems.
 
-1. Text for each question.
-2. A working solution to each problem. Do not include test, practice, or broken code unless you were unable to create a working solution.
-3. Comments for all of your code that explain your steps and describe any assumptions you made in order to solve these problems.
-4. **Bonus**: In programming (and life), there may be multiple ways to solve a problem. After completing our challenges, go back and see if you can think of any other valid methods!
+4. **Bonus**: After completing the required portions, try your hand at the **bonus** sections for some additional challenges!
+
 
 ---
 

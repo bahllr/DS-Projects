@@ -32,7 +32,7 @@ In a Jupyter Notebook, create working solutions for all of the **required** ques
 3. Comments for all of your code.
    - In your comments, describe any assumptions you made in order to solve these problems.
 
-4. **Bonus**: After completing the required portions, try your hand at the **bonus** sections for some additional challenges!
+4. **Optional**: After completing the required portions, try your hand at the **bonus** sections for some additional challenges!
 
 
 ---

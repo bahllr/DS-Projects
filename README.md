@@ -18,7 +18,7 @@
 
 ## Project Objective
 
-We've provided a Jupyter notebook Project-1-CC.ipynb that contains the kinds of coding challenges that often come up in data science job interviews. In addition to preparing you for interviews, completing challenges like these is a fun way to develop your Python skills.
+We've provided a Jupyter notebook that contains the kinds of coding challenges that often come up in data science job interviews. In addition to preparing you for interviews, completing challenges like these is a fun way to develop your Python skills.
 
 Some of these problems are well known, so it may be possible to find complete solutions online. Students should see these questions as an opportunity to challenge themselves; looking up answers limits the potential growth that comes from practice and repetition of these skills.
 
